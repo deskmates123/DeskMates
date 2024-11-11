@@ -8,8 +8,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        cardGreen: '#4E9F3D', // Green for the table
+        cardRed: '#D94F4F',    // Red for the heart, diamond suits
+        cardGold: '#FFD700',   // Gold accents (royalty theme)
+        cardBlack: '#1E1E1E',  // Dark background for the navbar
+        cardWhite: '#F4F4F9',  // Soft white for contrast
+        cardAccent: '#E5B56D', // A muted gold for borders or highlights
       },
     },
   },

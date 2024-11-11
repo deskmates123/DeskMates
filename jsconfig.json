@@ -1,7 +1,9 @@
+// jsconfig.json
 {
   "compilerOptions": {
+    "baseUrl": ".", // Base directory for resolving non-relative paths
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["src/*"]
     }
   }
 }
