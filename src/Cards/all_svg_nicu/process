@@ -1,0 +1,6 @@
+tar -zcf ../tarballs/backs_nicu.tgz backs
+tar -zcf ../tarballs/bordered_nicu.tgz bordered
+tar -zcf ../tarballs/ornamental_nicu.tgz ornamental
+tar -zcf ../tarballs/simple_nicu.tgz simple
+tar -zcf ../tarballs/white_nicu.tgz white
+tar -zcf ../tarballs/all_svg_nicu.tgz ../svg
